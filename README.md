@@ -23,7 +23,7 @@ A bubble chart that showcases the average fare versus the total number of rides 
 
 ![](./analysis/Fig1.png)
 
-As seen from the bubble chart above that rural areas tend to have a higher average fare and there are few drivers in rural areas as compared to suburban and urban areas. There are few number of drivers in the rural areas and average fare is less in rural areas. The suburban areas lie between rural and urban areas.
+As seen from the bubble chart above that rural areas tend to have a higher average fare and there are few drivers in rural areas as compared to suburban and urban areas. There are more  number of drivers in the urban areas and average fare is less in rural areas. The suburban areas lie between rural and urban areas.
 
 The summary statistics were calculated and it was visualized to determine if there are any outliers by using box-and-whisker plots. The box-and-whisker plots for ride count data versus number of rides, ride fare data versus fare and driver count data versus number of drivers were made. The plots are the following.
 

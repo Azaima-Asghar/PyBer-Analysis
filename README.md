@@ -13,7 +13,7 @@ The analysis results and the visualizations performed will help the PyBer compan
 * Open-source distribution software Anaconda and the Jupiter notebook.
 * Pandas, NumPy, Matpoltlib and SciPy libraries for python.
 
-Both the data sets, city and ride data sets were cleaned by checking if there was any null or missing value in the data sets. After cleaning both the data sets were merged into one data set. The analysis was performed on the merged data set.
+Both the data sets, city and ride data sets were cleaned by checking if there was any null or missing values in the data sets. After cleaning both the data sets were merged into one data set. The analysis was performed on the merged data set.
 
 
 ## *Results*

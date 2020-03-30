@@ -4,7 +4,7 @@
 
 PyBer is a python based ride sharing app company. The task of this project is to perform exploratory analysis on data in some very large csv files. To aid this process several types of visualizations are created to tell a compelling story about the data. 
 
-Python scripts are written using pandas libraries, a Jupyter notebook and matplotlib to create a variety of charts that showcase the relationship between the type of city and the number of drivers and reels as well as total percentage of fares, rides and drivers by the type of the city. 
+Python scripts are written using pandas libraries, a Jupyter notebook and matplotlib to create a variety of charts that showcase the relationship between the type of city and the number of drivers and riders as well as total percentage of fares, rides and drivers by the type of the city. 
 
 The analysis results and the visualizations performed will help the PyBer company improve access to ride sharing services and determine afforabilitly for under-served neighborhoods.
 

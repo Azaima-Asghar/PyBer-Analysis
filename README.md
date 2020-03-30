@@ -1,5 +1,4 @@
 # *PyBer-Analysis with Matplotlib*
-Visualizing  Ride-Sharing Data.
 
 ## *Introduction*
 
@@ -28,11 +27,11 @@ As seen from the bubble chart above that rural areas tend to have a higher avera
 
 The summary statistics were calculated and it was visualized to determine if there are any outliers by using box-and-whisker plots. The box-and-whisker plots for ride count data versus number of rides, ride fare data versus fare and driver count data versus number of drivers were made. The plots are the following.
 
-![](./analysis/Fig2.png)
+![](/analysis/Fig2.png)
 
 There is one outlier in the urban ride count data. Also, the average number of rides in the rural cities is about 4- and 3.5-times lower per city than the urban and suburban cities, respectively.
 
-![](./analysis/Fig3.png)
+![](/analysis/Fig3.png)
 
 There is no outlier in the ride fare data. The average fare in the rural cities is slightly higher than the urban and suburban cities.
 

@@ -31,11 +31,11 @@ The summary statistics were calculated and it was visualized to determine if the
 
 There is one outlier in the urban ride count data. Also, the average number of rides in the rural cities is about 4- and 3.5-times lower per city than the urban and suburban cities, respectively.
 
-![](./analysis/Fig3.png)
+![](./analysis/fig3.png)
 
 There is no outlier in the ride fare data. The average fare in the rural cities is slightly higher than the urban and suburban cities.
 
-![](./analysis/Fig4.png)
+![](./analysis/fig4.png)
 
 There is no outlier in driver count data. The average number of drivers in the rural cities is about 5-times lower than the urban and suburban cities.
 

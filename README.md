@@ -12,6 +12,7 @@ The analysis results and the visualizations performed will help the PyBer compan
 * Data Sources: city_data.csv and ride_data.csv (present in the resources folder).
 * Open-source distribution software Anaconda and the Jupiter notebook.
 * Pandas, NumPy, Matpoltlib and SciPy libraries for python.
+* Visual Studio Code.
 
 Both the data sets, city and ride data sets were cleaned by checking if there was any null or missing values in the data sets. After cleaning both the data sets were merged into one data set. The analysis was performed on the merged data set.
 
